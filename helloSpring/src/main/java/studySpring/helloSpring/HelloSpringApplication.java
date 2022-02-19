@@ -1,13 +1,13 @@
-package study.studySpring;
+package studySpring.helloSpring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StudySpringApplication {
+public class HelloSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StudySpringApplication.class, args);
+		SpringApplication.run(HelloSpringApplication.class, args);
 	}
 
 }
